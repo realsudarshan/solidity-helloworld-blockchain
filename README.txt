@@ -12,6 +12,7 @@ This workspace contains 3 directories:
 3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
 ![Alt text](https://github.com/realsudarshan/solidity-helloworld-blockchain/blob/main/Screenshot%20from%202024-12-16%2020-59-31.png?raw=true)
 
+
 SCRIPTS
 
 The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
