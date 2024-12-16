@@ -10,6 +10,7 @@ This workspace contains 3 directories:
 1. 'contracts': Holds three contracts with increasing levels of complexity.
 2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
 3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
+![Alt text](https://github.com/realsudarshan/solidity-helloworld-blockchain/blob/main/Screenshot%20from%202024-12-16%2020-59-31.png?raw=true)
 
 SCRIPTS
 
